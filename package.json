@@ -1,0 +1,16 @@
+{
+  "name": "vitawatch",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node readData.js"
+  },
+  "keywords": ["firebase", "vitawatch"],
+  "author": "Your Name",
+  "license": "ISC",
+  "description": "A vitals monitoring app connected to Firebase",
+  "dependencies": {
+    "firebase": "^11.6.0"
+  }
+}
